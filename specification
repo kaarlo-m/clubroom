@@ -1,0 +1,6 @@
+-ylläpitää kalenteria kerhotilan varausvuoroista
+-käyttäjä voi asettaa vuoron päivälle, ajalle ja talon numerolle
+-myös mahd. atmk vuorot ja yhteiset vuorot
+-kalenteri säilytetään tiedostossa jota päivitetään
+-käyttäjä voi poistaa vuoron
+-kuukauden aukeamispäivä määritelty
